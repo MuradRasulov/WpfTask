@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "126iihCe9ZfMl7sB/gNdQuMpqc3v/r3UKLkzoBdCnljotyncfBBBbVH/X74A7IAeFkP9/TFUzQ7hNLto4DI8CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\st310-05\\Documents\\WpfTaskDesktop\\WpfTaskDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st310-05\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
